@@ -1,6 +1,6 @@
 
 
-[SimpleLogin](https://simplelogin.io) | Protect your online identity with email alias
+[Mail2privacy](https://app.mail2privacy.com) | Protect your online identity with email alias
 ---
 <p>
 <a href="https://chrome.google.com/webstore/detail/dphilobhebphkdjbpfohgikllaljmgbn">
